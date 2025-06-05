@@ -4,8 +4,6 @@
 
 
 
-<img align="right" width=315px top-padding=100px alt="Unicorn" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"/>
-
   <img src="./terminal.gif" width="610" alt="Kasam's Terminal GIF">
 
 <img src = "https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width = 35>&nbsp;***About me***
